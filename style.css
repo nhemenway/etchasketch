@@ -63,7 +63,7 @@ html {
 	margin-top: -1px;
 }
 
-.black {
+#grid .black {
 	z-index: 10;
 	border-color: black;
 	background: black;
